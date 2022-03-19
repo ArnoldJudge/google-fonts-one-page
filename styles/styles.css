@@ -3,6 +3,7 @@ html {
 }
 
 body {
+  font-family: 'Montserrat', sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -45,7 +46,7 @@ nav {
 }
 
 span .font-pair1a{
-  font-family: 'Montserrat', sans-serif
+  font-family: 'Montserrat', sans-serif;
 }
 
 span .font-pair1b{
