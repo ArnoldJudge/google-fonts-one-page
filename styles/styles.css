@@ -46,13 +46,26 @@ nav {
 }
 
 span .font-pair1a{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Montserrat', sans-serif
 }
 
 span .font-pair1b{
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+span .font-pair2a{
+  font-family: 'Fredoka', sans-serif;
 }
 
+span .font-pair2b{
+  font-family: 'Lato', sans-serif;
+}
+span .font-pair3a{
+  font-family: 'Raleway', sans-serif;
+}
+
+span .font-pair3b{
+  font-family: 'Oswald', sans-serif;
+}
 
 /* add your css below this line */
 
