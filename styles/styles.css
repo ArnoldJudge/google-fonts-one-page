@@ -49,7 +49,7 @@ span .font-pair1a{
   font-family: 'Montserrat', sans-serif;
 }
 .fontpair1a{
-  font-family: 'Fredoka', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 span .font-pair1b{
@@ -68,14 +68,22 @@ span .font-pair2a{
 span .font-pair2b{
   font-family: 'Lato', sans-serif;
 }
+.fontpair2b{
+  font-family: 'Lato', sans-serif;
+}
 span .font-pair3a{
+  font-family: 'Raleway', sans-serif;
+}
+.fontpair3a{
   font-family: 'Raleway', sans-serif;
 }
 
 span .font-pair3b{
   font-family: 'Oswald', sans-serif;
 }
-
+.fontpair3b{
+  font-family: 'Oswald', sans-serif;
+}
 /* add your css below this line */
 
 .hero-background {
