@@ -53,32 +53,21 @@ nav {
   font-family: 'Open Sans', sans-serif;
 }
 
-span .font-pair2a{
-  font-family: 'Fredoka', sans-serif;
-}
-.fontpair2a{
+.font-pair2a{
   font-family: 'Fredoka', sans-serif;
 }
 
-span .font-pair2b{
+.font-pair2b{
   font-family: 'Lato', sans-serif;
 }
-.fontpair2b{
-  font-family: 'Lato', sans-serif;
-}
-span .font-pair3a{
-  font-family: 'Raleway', sans-serif;
-}
-.fontpair3a{
+.font-pair3a{
   font-family: 'Raleway', sans-serif;
 }
 
-span .font-pair3b{
+.font-pair3b{
   font-family: 'Oswald', sans-serif;
 }
-.fontpair3b{
-  font-family: 'Oswald', sans-serif;
-}
+
 /* add your css below this line */
 
 .hero-background {
